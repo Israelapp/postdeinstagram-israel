@@ -1,10 +1,14 @@
-body{ display: flex;
-  justify-content: center;
-  font-family: Arial, Helvetica, sans-serif;
+    h1{
+    border: 2px solid;
+    color: black;
+    text-align: center;
+    }
+.contenedor {
+  text-align: right;
 }
-#box1 { box-sizing: content-box;
-  width: 5px;
-  height: 10px;
-  
-
+img {
+width: 50%;
+margin: 5px;
+display: flex;
+justify-content:center;
 }
